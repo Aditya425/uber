@@ -1,1 +1,1 @@
-# uber
+# See activity_rider.xml
